@@ -1,0 +1,6 @@
+isodate
+pandas
+boto3
+pymongo
+python-dotenv
+google-api-python-client

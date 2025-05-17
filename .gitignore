@@ -1,0 +1,11 @@
+# Ignore the Screenshots directory
+ss/
+
+# Ignore the .env file
+.env
+
+# Ignore the .pem file
+youtube_etl.pem
+
+# Ignore the commands.txt file
+commands.txt
