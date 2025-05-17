@@ -1,5 +1,5 @@
 # Ignore the Screenshots directory
-ss/
+# ss/
 
 # Ignore the .env file
 .env
